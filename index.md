@@ -1,7 +1,7 @@
-# A literature aggregated catalogue of benchmark measurements for solar-like oscillators
-On this webpage, I keep and update a catalogue of robust benchmark measurements for solar-like oscillating stars. This includes stars that have independent fundamental parameter measurements and individual oscillation mode frequencies. An example of this are eclipsing binaries containing a red giant oscillator. 
+## An aggregated catalogue of benchmark measurements for solar-like oscillators
+On this webpage, I keep an updated catalogue of robust benchmark measurements for solar-like oscillating stars. This includes stars that have independent fundamental parameter measurements and individual oscillation mode frequencies. An example of this are eclipsing binaries containing a red giant oscillator. 
 
-My aim with this catalogue is not to have a complete account of all benchmark stars, but rather, to keep a curated list of measurements that I trust.
+My aim with this catalogue is not to have a complete account of all benchmark stars, but rather, to keep a curated list of measurements that I am convinced are robust relative to their uncertainty.
 It is my hope that this will be useful for anyone wishing to perform seismic modelling inference.
 
 
