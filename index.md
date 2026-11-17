@@ -10,3 +10,13 @@ If you use this, thank you for your interest. For now, there is no single refere
 
 All the best,
 Jeppe Sinkbaek Thomsen
+
+
+### Eclipsing SB2 binaries
+These have the mass and radius measured fully independently of the oscillations. This offers a way to directly benchmark asteroseismic predictions.
+
+### SB2 binaries with a mass-constraint
+For astrometric binaries, the inclination can be measured without eclipses. With radial velocities, this allows direct measurement of the stellar mass, but not the radius.
+
+### Asteroseismic binaries
+Asteroseismic binaries host two oscillators, which makes them a powerful tool for seismic comparison.
